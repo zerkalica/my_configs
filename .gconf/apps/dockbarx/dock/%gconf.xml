@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="theme_file" mtime="1375723258" type="string">
+		<stringvalue>dbx.tar.gz</stringvalue>
+	</entry>
+	<entry name="offset" mtime="1375724192" type="int" value="25"/>
+	<entry name="behavior" mtime="1375723576" type="string">
+		<stringvalue>panel</stringvalue>
+	</entry>
+	<entry name="size" mtime="1375726372" type="int" value="35"/>
+	<entry name="end_decorations" mtime="1375723133" type="bool" value="false"/>
+	<entry name="mode" mtime="1375726369" type="string">
+		<stringvalue>centered</stringvalue>
+	</entry>
+	<entry name="position" mtime="1432395839" type="string">
+		<stringvalue>top</stringvalue>
+	</entry>
+</gconf>
