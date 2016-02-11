@@ -1,0 +1,7 @@
+
+tmpfs     /home/user/.mozilla tmpfs mode=1777,noatime 0 0
+tmpfs     /home/user/.config/google-chrome tmpfs mode=1777,noatime 0 0
+tmpfs     /home/user/.config/google-chrome-beta tmpfs mode=1777,noatime 0 0
+#tmpfs     /home/user/.gconf tmpfs mode=1777,noatime 0 0
+tmpfs     /home/user/.cache tmpfs mode=1777,noatime 0 0
+tmpfs   /var/cache/apt/archives tmpfs   defaults        0       0

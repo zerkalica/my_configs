@@ -1,0 +1,4 @@
+*/15 * * * * /home/urchik/projects/my_configs/projects/profiles-sync/sync.sh sync
+
+@reboot /home/urchik/projects/my_configs/projects/profiles-sync/sync.sh start
+
