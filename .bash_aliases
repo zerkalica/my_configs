@@ -2,8 +2,8 @@ alias agi="sudo apt-get install -y"
 alias agr="sudo apt-get purge -y"
 alias agu="sudo apt-get update"
 
-alias ari="sudo apt-add-repository -y && sudo apt-get update"
-alias arr="sudo apt-add=repository -y --remove && sudo apt-get update"
+alias aar="sudo apt-add-repository -y"
+alias aarr="sudo apt-add-repository -y --remove"
 
 alias sr="sudo service restart"
 alias sta="sudo service start"
