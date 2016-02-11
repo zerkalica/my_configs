@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Shotwell
+Comment=Organize your photos
+Exec=shotwell %U
+Icon=shotwell
+Path=
+Terminal=false
+StartupNotify=false

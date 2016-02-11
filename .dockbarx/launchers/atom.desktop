@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Atom
+Comment=A hackable text editor for the 21st century
+Exec=/opt/atom/atom %F
+Icon=atom
+Path=
+Terminal=false
+StartupNotify=true

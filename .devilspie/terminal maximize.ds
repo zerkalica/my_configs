@@ -1,0 +1,11 @@
+; generated_rule terminal maximize
+( if 
+( begin 
+( is ( window_role ) "normal" )
+( is ( application_name ) "Терминал Xfce" )
+) 
+( begin 
+( maximize )
+( println "match" )
+)
+)

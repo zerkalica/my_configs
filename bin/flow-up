@@ -1,0 +1,6 @@
+#!/bin/sh
+
+wget https://facebook.github.io/flow/downloads/flow-linux64-latest.zip -c
+7z e flow-linux64-latest.zip -y -o.
+rm flow-linux64-latest.zip
+killall flow
